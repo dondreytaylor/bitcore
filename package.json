@@ -82,10 +82,10 @@
     "request": "browser-request"
   },
   "dependencies": {
-    "bitcore-lib": "dondreytaylor/bitcore-lib#8e2caed768aa269b433a14981f0e36c0838a3d91",
-    "bitcore-node": "dondreytaylor/bitcore-node#7b03276c2cda97a6cf1518d0d526fdf1e0ba423b",
-    "insight-api": "dondreytaylor/insight-api#6ef6003648e0a5e27c67d677d6aee04bd31eae04",
-    "insight-ui": "dondreytaylor/insight#0eee359b3d951c749fc3078f0118669be3bb46fb"
+    "bitcore-lib": "dondreytaylor/bitcore-lib",
+    "bitcore-node": "dondreytaylor/bitcore-node",
+    "insight-api": "dondreytaylor/insight-api",
+    "insight-ui": "dondreytaylor/insight"
   },
   "license": "MIT",
   "devDependencies": {
